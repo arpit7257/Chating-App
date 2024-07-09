@@ -1,5 +1,3 @@
-Sure, here's a basic template for a README file for your Chatting App:
-
 # Chatting App
 
 This is a simple chatting application with backend functionality. Users can create accounts, log in, and chat with each other in real-time.
